@@ -20,7 +20,7 @@ This project demonstrates how to use Large Language Models (LLMs) to perform **f
 
 - Python 3.8+
 - A [Groq API key](https://console.groq.com/keys) (free to sign up)
-- [pip](https://pip.pypa.io/en/stable/installation/)
+- Streamlit
 
 ### Installation
 
