@@ -22,7 +22,7 @@ tool_fn_map = {
     "get_quote": get_quote
 }
 
-user_prompt = st.text_input("Enter your prompt:", "What's the weather in Paris and tell me a joke?")
+user_prompt = st.text_input("Enter your prompt:", "What's the weather in Chennai and tell me a joke?")
 if st.button("Submit"):
     with st.spinner("Thinking..."):
         messages = [{"role": "user", "content": user_prompt}]
